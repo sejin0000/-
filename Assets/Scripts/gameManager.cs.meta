@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9dc4f9d77f5e9e043b5d4a4c2d6377b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - card: {instanceID: 0}
+  - firstCard: {instanceID: 0}
+  - secondCard: {instanceID: 0}
+  - endPanel: {instanceID: 0}
+  - match: {fileID: 8300000, guid: 4d1c4eebdc6ad6a42a66dc09f069e649, type: 3}
+  - fail: {fileID: 8300000, guid: 9dc35805438d4724fa58a41d51b00408, type: 3}
+  - audioSource: {instanceID: 0}
+  - timeTxt: {instanceID: 0}
+  - bestTimeTxt: {instanceID: 0}
+  - scoreTxt: {instanceID: 0}
+  - countTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
